@@ -1,0 +1,8 @@
+[package]
+name = "usearch_android_mre"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+usearch = "2.12.0"
